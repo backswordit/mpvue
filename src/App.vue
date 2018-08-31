@@ -11,7 +11,7 @@ export default {
     // const logs = wx.getStorageSync('logs') || []
     // logs.unshift(Date.now())
     // wx.setStorageSync('logs', logs)
-
+    console.log('666')
     console.log('app created and cache logs by setStorageSync')
 
     // const res = await getApi('/weapp/demo')
