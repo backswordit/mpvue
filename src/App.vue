@@ -5,9 +5,9 @@ import qcloud from 'wafer2-client-sdk'
 export default {
   created () {
 
-    
-    
-    // 调用API从本地缓存中获取数据113336888
+
+
+    // 调用API从本地缓存中获取数据66666yy
     // const logs = wx.getStorageSync('logs') || []
     // logs.unshift(Date.now())
     // wx.setStorageSync('logs', logs)
