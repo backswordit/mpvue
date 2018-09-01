@@ -1,12 +1,6 @@
 <script>
-import {getApi,showSuccess} from './util'
-import config from './config'
-import qcloud from 'wafer2-client-sdk'
 export default {
   created () {
-
-
-
     // 调用API从本地缓存中获取数据777
     // const logs = wx.getStorageSync('logs') || []
     // logs.unshift(Date.now())
@@ -14,8 +8,6 @@ export default {
     console.log('666')
     console.log('app created and cache logs by setStorageSync')
 
-    // const res = await getApi('/weapp/demo')
-    // console.log(1233, res)
   }
 }
 </script>
